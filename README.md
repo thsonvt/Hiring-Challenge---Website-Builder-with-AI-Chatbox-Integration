@@ -1,6 +1,6 @@
 # Hiring-Challenge---Website-Builder-with-AI-Chatbox-Integration
 
-EventNook is hiring for talented software engineers based in Vietnam to help them build the new products integrated into the core product. Engineers are invited to submit the solution to below challenge. There is a 2nd challenge at this link. You are welcome to attemp both challenges or you can just decide which challenge to take part. Cash award for the winner of each challenge is SGD 500
+EventNook is hiring for talented software engineers based in Vietnam to help them build the new products integrated into the core product. Engineers are invited to submit the solution to below challenge. There is a 2nd challenge at this link https://github.com/thsonvt/Hiring-Challenge----Facial-Recognition/tree/main. You are welcome to attemp both challenges or you can just decide which challenge to take part. Cash award for the winner of each challenge is SGD 500
 
 The CEO will be at the AI BuildCamp Demo Day on the morning of 22/02/2025 to talk about his company and the challenge in details. Interested candidates can speak to him at th event. Here is the event details https://lu.ma/x2a7cxn7
 
